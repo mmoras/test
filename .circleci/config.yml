@@ -54,4 +54,4 @@ workflows:
            - I-Have-Code
      - Now-Complete:
          requires:
-           - Hold-For-Approvali
+           - Hold-For-Approval
